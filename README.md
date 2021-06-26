@@ -1,2 +1,2 @@
 # tugas_2_css
-Tugas 1 CSS
+Tugas 2 CSS
